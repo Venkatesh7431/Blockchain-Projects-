@@ -6,4 +6,7 @@ Author- Venkatesh Dangi(Smart Contract Developer)
 <h4>Built using Remix IDE + MetaMask </h4>
 
 
+
+
+<h4>Decentralized Voting Smart Contract
 🔗 View Verified Live Contract: https://sepolia.etherscan.io/address/0x2bda571b1a727a92178e0956587376027cc75231#writeContract
