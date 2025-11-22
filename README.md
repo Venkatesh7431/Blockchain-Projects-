@@ -1,7 +1,7 @@
 # Blockchain-Projects
 Author- Venkatesh Dangi(Smart Contract Developer)
 
-<h3>Deployed and Verified Smart Contracts on the Ethereum Sepolia Testnet!</h3>
+<h3>🚀 Deployed and Verified Smart Contracts on the Ethereum Sepolia Testnet!</h3>
 <h4>Verified on Etherscan ✅ </h4>
 <h4>Built using Remix IDE + MetaMask </h4>
 
